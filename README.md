@@ -1,7 +1,7 @@
-# Ex No: 03 – Entity Student and Build CRUD Operations Using Spring Boot Hibernate Configuration
+## Ex No: 03 – Entity Student and Build CRUD Operations Using Spring Boot Hibernate Configuration
 
-**Name:** D. Vishwa
-**Reg No:** 2305001034
+# Name: Adhithya K
+# Reg No: 2305002001
 
 ## AIM
 
